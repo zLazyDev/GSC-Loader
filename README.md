@@ -8,11 +8,14 @@ Supported Games
 COD4 SP, MP
 WAW SP, MP, ZM
 MW3 SP, MP
-Ghosts MP, EX
-AW ZM, ES, MP
+Ghosts MP, EX, SP
+AW ZM, ES, MP, SP
 BO3 MP, ZM
 BO2 SP, MP, ZM
 Ghosts Dev Build MP
+007 QOS MP, SP
+BO1 SP, ZM, MP
+COD2 MP
 
 
 
@@ -30,6 +33,10 @@ place file in game folder in raw script.gscbin
 BO2 BO3
 
 place file in game folder in raw script.gsc
+
+BO1 
+
+works kinda how infinity ops works same style
 
 its all simple if you have any questions or issues message me on discord my discord is skidful
 
