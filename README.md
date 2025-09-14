@@ -38,6 +38,21 @@ BO1
 
 works kinda how infinity ops works same style
 
+How Memory Options Work
+
+WriteByte("address", "byte");
+WriteBytes("address", "byte", "byte");
+WriteString("Address", "string");
+
+most is the same as WriteByte
+
+RPC Example RPC("0x82239FD0", "0", "jump_height 999;"); <--- cbuf addtext
+
+Read Memory is like Write
+
+ReadByte("address");
+ReadBytes("address", "how many to read - 4") will read 4 bytes
+
 its all simple if you have any questions or issues message me on discord my discord is skidful
 
 i will be updating this with new games as time goes on :)
