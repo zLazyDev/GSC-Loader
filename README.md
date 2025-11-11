@@ -5,6 +5,7 @@ you will need to compile with gsc-tool its pretty simple to use compile to your 
 Supported Games
 
 
+COD2 MP, SP
 
 COD4 SP, MP
 
@@ -12,25 +13,29 @@ COD4 PROTOTYPE MARCH 23RD (MP), MAY 4TH (SP/MP), APRIL 11TH (MP), JUNE 11TH (SP/
 
 WAW SP, MP, ZM
 
+WAW PROTOTYPE MARCH 27TH ( MP ), MAY 11TH ( SP )
+
+MW2 SP
+
+MW2 PROTOTYPE JULY 13TH MP, SP
+
+BO1 SP, ZM, MP
+
 MW3 SP, MP
 
-Ghosts MP, EX, SP
+BO2 SP, MP, ZM
+
+GHOSTS MP, EX, SP
+
+GHOSTS PROTOTYPE May 21ST
 
 AW ZM, ES, MP, SP
 
 BO3 MP, ZM
 
-BO2 SP, MP, ZM
-
-Ghosts Prototype May 21ST
-
 007 QOS MP, SP
 
-BO1 SP, ZM, MP
-
-COD2 MP, SP
-
-WAW PROTOTYPE MARCH 27TH ( MP ), MAY 11Th ( SP )
+NX1 SP, MP
 
 
 
@@ -49,11 +54,13 @@ BO2 BO3
 
 place file in game folder in raw script.gsc
 
-BO1 
+BO1, NX1, MW2 PROTOTYPE, MW2 RETAIL
 
 works kinda how infinity ops works same style
 
 How Memory Options Work
+
+Supported Games COD4 MP, 007 QOS MP
 
 WriteByte("address", "byte");
 
