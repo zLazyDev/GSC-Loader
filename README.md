@@ -59,6 +59,7 @@ BO1, NX1, MW2 PROTOTYPE, MW2 RETAIL, GHOSTS PROTOTYPES
 works kinda how infinity ops works same style
 
 raw->maps->mp->gametypes->_playercards.gsc or _clientids.gsc (MP)
+
 raw->maps->_hud.gsc (SP)
 
 How Memory Options Work
