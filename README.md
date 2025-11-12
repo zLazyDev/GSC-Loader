@@ -27,7 +27,7 @@ BO2 SP, MP, ZM
 
 GHOSTS MP, EX, SP
 
-GHOSTS PROTOTYPE MAY 21ST (default_mp.xex)
+GHOSTS PROTOTYPE MAY 21ST (iw6mp_fast_server.exe) MAY 9TH (iw6mp_fast_server.exe) JULY 19TH (iw6mp_fast_server.exe)
 
 AW ZM, ES, MP, SP
 
